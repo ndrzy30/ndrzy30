@@ -32,7 +32,6 @@
   </h2>
 </div>
 
-<!-- Modern About Section with Code Theme -->
 ```typescript
 class AndreProfile {
     readonly name = "Andre";
@@ -57,28 +56,36 @@ class AndreProfile {
 }
 ```
 
-<!-- Tech Stack with Animated Progress Bars -->
+<!-- Tech Stack Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
-  Tech Arsenal
+  Tech Proficiency
   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40">
 </h2>
 
 <div align="center">
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,git,vscode&theme=dark&perline=4" />
-  
-  <!-- Animated Progress Bars -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndrzy30&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most Used Languages">
-  </div>
-  
-  <!-- Tech Journey Progress -->
-  <h4>💻 Tech Proficiency</h4>
-  
-  ![Laravel](https://progress-bar.dev/85/?title=Laravel&width=220&color=ff2d20)
-  ![PHP](https://progress-bar.dev/80/?title=PHP&width=220&color=8892BF)
-  ![Web Dev](https://progress-bar.dev/75/?title=Web-Dev&width=220&color=61DAFB)
+  <!-- Main Tech Stack Badges -->
+  <p align="center">
+    <a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+    <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+    <a href="https://developer.mozilla.org" target="_blank"><img src="https://img.shields.io/badge/Web_Dev-1572B6?style=for-the-badge&logo=javascript&logoColor=white" alt="Web Dev"/></a>
+  </p>
+
+  <!-- Skill Progress Bars -->
+  <p align="center">
+    <img width="400" src="https://progress-bar.dev/85/?title=Laravel&color=FF2D20">
+  </p>
+  <p align="center">
+    <img width="400" src="https://progress-bar.dev/80/?title=PHP&color=777BB4">
+  </p>
+  <p align="center">
+    <img width="400" src="https://progress-bar.dev/75/?title=Web_Development&color=1572B6">
+  </p>
+
+  <!-- Tech Stack Icons -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,git,vscode&theme=dark&perline=4"/>
+  </p>
 </div>
 
 <!-- Current Focus with Animated Icons -->
