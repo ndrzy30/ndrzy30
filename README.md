@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,27,35&height=180&section=header&text=Andre's%20Cyber%20Space&fontSize=55&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20|%20Algorithm%20Enthusiast%20|%20Academic%20Explorer&descSize=20&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,27,35&height=180&section=header&text=Andre's%20Laravel%20Hub&fontSize=55&fontAlignY=35&animation=twinkling&desc=Web%20Developer%20|%20Algorithm%20Implementation%20|%20Backend%20Solutions&descSize=20&descAlignY=55"/>
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" />
 </div>
