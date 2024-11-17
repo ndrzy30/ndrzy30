@@ -81,11 +81,11 @@
 </h2>
 
 <div align="center">
-  <!-- Main Tech Stack Badges -->
+  <!-- Main Tech Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/Web_Dev-1572B6?style=for-the-badge&logo=javascript&logoColor=white" alt="Web Dev"/>
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Web%20Dev-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </p>
 
   <!-- Skill Progress Bars -->
@@ -99,12 +99,35 @@
     <img width="400" src="https://progress-bar.dev/75/?title=Web_Development&color=1572B6">
   </p>
 
-  <!-- Tech Stack Icons -->
+  <!-- Development Tools & Technologies -->
+  <div align="center">
+    <!-- Backend & Frameworks -->
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark" />
+    <br>
+    <!-- Frontend -->
+    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+    <br>
+    <!-- Tools -->
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" />
+  </div>
+</div>
+
+<!-- Divider -->
+<br>
+
+<!-- Additional Tools -->
+<div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,git,vscode&theme=dark&perline=4"/>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </p>
 </div>
 
+<!-- Tech Quote -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=500&lines=Building+robust+applications+with+Laravel+%26+PHP;Crafting+efficient+database+solutions;Clean+code+advocate" alt="Tech Focus"/>
+</div>
 <!-- Current Focus with Animated Icons -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
