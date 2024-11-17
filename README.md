@@ -91,48 +91,31 @@
   </p>
 </div>
 
-<!-- Current Focus Areas -->
-<h2 align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-    Current Focus Areas
-  </a>
-</h2>
-
+<!-- Combined Focus Areas & Connect Section -->
 <div align="center">
-  <a href="https://github.com/ndrzy30">
-    <table align="center" style="border: none;">
-      <tr>
-        <td align="center" width="150">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="30">
-          <br>
-          <strong>Algorithm Implementation</strong>
-        </td>
-        <td align="center" width="150">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30">
-          <br>
-          <strong>Web Development</strong>
-        </td>
-        <td align="center" width="150">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30">
-          <br>
-          <strong>Backend Solutions</strong>
-        </td>
-      </tr>
-    </table>
+  <!-- Left Section - Focus Areas -->
+  <a href="https://github.com/ndrzy30" style="text-decoration: none;">
+    <h2 style="margin: 0;">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;"> 
+      Current Focus
+    </h2>
+    <div style="display: inline-block; margin: 10px 20px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" style="vertical-align: middle;"> Algorithm Implementation &nbsp;|&nbsp;
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" style="vertical-align: middle;"> Web Development &nbsp;|&nbsp;
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" style="vertical-align: middle;"> Backend Solutions
+    </div>
   </a>
-</div>
 
-<!-- Connect Section -->
-<h2 align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
-    Let's Connect
+  <!-- Right Section - Connect -->
+  <a href="https://github.com/ndrzy30" style="text-decoration: none;">
+    <h2 style="margin: 0;">
+      <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" style="vertical-align: middle;">
+      Let's Connect
+    </h2>
+    <div style="display: inline-block; margin: 10px;">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </div>
   </a>
-</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </div>
 
 <!-- Footer -->
