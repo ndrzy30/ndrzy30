@@ -61,24 +61,32 @@
     Core Expertise
   </h2>
   
-  <!-- Animated Cards Section -->
-  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin-top: 20px;">
-    <!-- Card 1 -->
-    <div style="width: 220px; height: 300px; border-radius: 15px; overflow: hidden; background: linear-gradient(145deg, #0f2027, #203a43, #2c5364); box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.4); transition: transform 0.3s;">
-      <div style="padding: 20px; text-align: center;">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="80" style="margin-bottom: 15px;">
-        <h3 style="color: #ffffff; font-family: 'Poppins', sans-serif; font-size: 20px;">Algorithm Design</h3>
-        <p style="color: #b0bec5; font-size: 14px; margin-top: 10px;">Optimization & Analysis</p>
-      </div>
-    </div>
-
-  <!-- Animation Line Divider -->
-  <div style="margin-top: 20px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%">
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="60">
+        <br>
+        <strong>Algorithm Design</strong>
+        <br>
+        <sub>Optimization & Analysis</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a60-2423-47e0-aaf7-6e5ff0f3fe39.gif" width="60">
+        <br>
+        <strong>System Architecture</strong>
+        <br>
+        <sub>Scalable Solutions</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8858-0a9075fd5cbb.gif" width="60">
+        <br>
+        <strong>Backend Engineering</strong>
+        <br>
+        <sub>Performance & Security</sub>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
 
 <!-- Development Process -->
 <div align="center">
