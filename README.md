@@ -1,101 +1,119 @@
-<!-- Header with Dynamic SVG -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋,%20I'm%20Indra&fontSize=50&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20|%20Algorithm%20Enthusiast&descAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=539bf5&height=150&section=header&text=Andre's%20Digital%20Space&fontSize=55&animation=fadeIn&desc=Backend%20Developer%20|%20Algorithm%20Implementation%20|%20Academic%20Enthusiast&descSize=20&descAlignY=75"/>
 </div>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=500&lines=Passionate+Web+Developer;Building+Efficient+Web+Solutions;Algorithm+Implementation+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
-</p>
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=539BF5&center=true&vCenter=true&width=435&lines=Laravel+Developer;Algorithm+Implementation;Web+Development;Academic+Research" alt="Typing SVG"/>
+  </a>
+</div>
 
-<!-- Profile Views Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ndrzy30&label=Profile%20views&color=0e75b6&style=flat" alt="ndrzy30" />
-  <img src="https://img.shields.io/github/followers/ndrzy30?label=Followers&style=social" alt="followers-count">
-</p>
+<!-- Profile Views & Location -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ndrzy30&color=539bf5&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Location-Medan,%20Sumatera%20Utara-539bf5?style=for-the-badge">
+</div>
 
-<!-- About Me Section with Icons -->
-<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazMxOHJ3MnE3Y2s5MW1zN3cycWdwZnFseW1ueHhzN204eWZ3M2lkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMw1DhEAwx5ZK/giphy.gif" width="30"> About Me</h2>
+<!-- About Me Section -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 
+    About Me
+  </h2>
+</div>
 
-```javascript
-const indra = {
-    code: ["PHP", "JavaScript", "HTML", "CSS", "SQL"],
-    technologies: {
-        backend: ["Laravel", "PHP", "MySQL"],
-        frontend: ["JavaScript", "HTML5", "CSS3"],
-        tools: ["Git", "GitHub", "VSCode", "Postman"],
-        architecture: ["MVC", "REST API"]
-    },
-    currentFocus: "Building robust web applications with Laravel",
-    funFact: "I love implementing complex algorithms in real-world projects"
-};
-```
+<div align="center">
+  <b>Academic-minded Laravel Developer from Medan, focused on implementing complex algorithms in web development. Passionate about creating efficient solutions and exploring new technologies.</b>
+</div>
 
-<!-- Animated Tech Stack -->
-<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR4anlhZ3pwOWF6bDVvNmR2bGJxcnJ0c3JnbWQyOXQzNjl1aWJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack </h2>
+<br>
+
+<!-- Key Points -->
+> 🌟 Specializing in Laravel Development & Web Solutions
+> 
+> 📚 Deep interest in Algorithm Implementation
+> 
+> 🎓 Academic Approach to Problem Solving
+> 
+> 🌐 Based in Medan, Sumatera Utara
+
+<!-- Tech Stack -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> 
+  Tech Stack & Tools
+</h2>
+
 <div align="center">
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
-<!-- Animated GitHub Stats -->
-<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1Y3BtY2pwejdwY3pyY2wxbzJ1NjU2bDVvZWR6NWZyZnFjYTBubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics </h2>
+<!-- GitHub Analytics -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="25px"> 
+  GitHub Analytics
+</h2>
+
 <p align="center">
   <a href="https://github.com/ndrzy30">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndrzy30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndrzy30&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndrzy30&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndrzy30&layout=compact&theme=github_dark&hide_border=true"/>
   </a>
 </p>
 
-<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndrzy30&theme=algolia" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndrzy30&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- Featured Projects with Animations -->
-<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdteWZyZjZ0Y2JhOHBnNjhrdml6YnY2bWRwcHFvMzc4OWF4aXNybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/euGq9pgXoOxMJANkEY/giphy.gif" width="30"> Featured Projects </h2>
+<!-- Current Focus -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25px"> 
+  Current Focus
+</h2>
 
 <div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndrzy30&repo=repository-name&theme=algolia" width="400"/>
-  </a>
+  <table>
+    <tr>
+      <td>🎯 Laravel Development</td>
+      <td>📊 Algorithm Analysis</td>
+    </tr>
+    <tr>
+      <td>🔍 Research Implementation</td>
+      <td>💻 Web Solutions</td>
+    </tr>
+  </table>
 </div>
 
-<!-- Current Learning Path -->
-<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwY2E0ZmE4NmM2ZTBmY2NhMmM1NDQ5ZDRkZGY5ZmQyYjJlZjNjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30"> Learning Path </h2>
-
-- 🚀 Advanced Laravel Features & Design Patterns
-- 💻 System Architecture & Scalability
-- 🔒 Web Security Best Practices
-- 📊 Data Structures & Algorithms in Web Development
+<!-- Activity Graph -->
+<h2 align="center">Activity Graph</h2>
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ndrzy30&theme=github-dark&hide_border=true"/>
+</div>
 
 <!-- Connect Section -->
-<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBtaW50NjBhbHY5M3Zua3JyeWx3NmRlNWx2anUyZWphNnBsdm1wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rgxKwTirFuJ7tXKbE1/giphy.gif" width="30"> Connect with Me </h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> 
+  Let's Connect
+</h2>
+
 <div align="center">
   <a href="https://instagram.com/_ndrzyy99">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ndrzy30/ndrzy30/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ndrzy30/ndrzy30/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ndrzy30/ndrzy30/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&color=0A66C2"/>
 </div>
