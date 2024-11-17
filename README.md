@@ -1,86 +1,124 @@
-<!-- Anime Banner Header -->
+<!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="200" alt="Developer Pic"/>
-  
-  # Andre's Coding Universe <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" />
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=6A9BF7&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Algorithm+Implementation;Web+Development;Laravel+Enthusiast)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,27,35&height=180&section=header&text=Andre's%20Cyber%20Space&fontSize=55&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20|%20Algorithm%20Enthusiast%20|%20Academic%20Explorer&descSize=20&descAlignY=55"/>
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" />
 </div>
 
-<!-- Matrix GIF Banner -->
+<!-- Animated Typing -->
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=500&lines=Laravel+Development;Algorithm+Implementation;Web+Solutions+Architect;Academic+Research;Creative+Problem+Solver" alt="Typing SVG"/>
+  </a>
 </div>
 
-<!-- Profile Views Counter with Animation -->
+<!-- Profile Views & Location with Animated Icons -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ndrzy30&label=Profile%20Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/From-Medan,%20ID-blue?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ndrzy30&label=Profile%20Visits&color=6A9BF7&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌏_Medan,_ID-Profile-6A9BF7?style=for-the-badge" />
 </div>
 
-<!-- Animated About Section -->
+<!-- Matrix Code Animation -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h2>
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
-  
-  ```javascript
-  class AboutAndre {
-    constructor() {
-      this.name = "Andre"
-      this.location = "Medan, Sumatera Utara"
-      this.role = "Laravel Developer"
-      this.focus = "Web & Algorithm Implementation"
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+<!-- About Me Section with Cool Animation -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+    About Me
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40">
+  </h2>
+</div>
+
+<!-- Modern About Section with Code Theme -->
+```typescript
+class AndreProfile {
+    readonly name = "Andre";
+    readonly base = "Medan, Indonesia";
+    readonly roles = ["Backend Developer", "Algorithm Specialist"];
+    
+    get currentFocus() {
+        return {
+            code: ["Laravel", "PHP", "JavaScript"],
+            interests: ["Web Development", "Algorithm Design"],
+            challenge: "Implementing complex algorithms in web solutions"
+        };
     }
     
-    getSkills() {
-      return ["Laravel", "PHP", "MySQL", "Web Dev"]
+    get academics() {
+        return {
+            research: "Algorithm Implementation",
+            approach: "Problem-Solving Oriented",
+            focus: "Web-Based Solutions"
+        };
     }
-  }
-  ```
+}
+```
+
+<!-- Tech Stack with Animated Progress Bars -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
+  Tech Arsenal
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40">
+</h2>
+
+<div align="center">
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,git,vscode&theme=dark&perline=4" />
+  
+  <!-- Animated Progress Bars -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndrzy30&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most Used Languages">
+  </div>
+  
+  <!-- Tech Journey Progress -->
+  <h4>💻 Tech Proficiency</h4>
+  
+  ![Laravel](https://progress-bar.dev/85/?title=Laravel&width=220&color=ff2d20)
+  ![PHP](https://progress-bar.dev/80/?title=PHP&width=220&color=8892BF)
+  ![Web Dev](https://progress-bar.dev/75/?title=Web-Dev&width=220&color=61DAFB)
 </div>
 
-<!-- Tech Stack with Anime Style -->
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,git,vscode&theme=dark" />
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> Tech Journey:
-  
-  ![Progress](https://progress-bar.dev/80/?title=Laravel&width=200&color=ff2d20)
-  ![Progress](https://progress-bar.dev/75/?title=PHP&width=200&color=8892BF)
-  ![Progress](https://progress-bar.dev/70/?title=MySQL&width=200&color=00758F)
-</div>
+<!-- Current Focus with Animated Icons -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  Current Endeavors
+</h2>
 
-<!-- Current Projects with Anime Style -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Current Focus</h2>
-  
-  <table>
+  <table align="center">
     <tr>
-      <td align="center">
+      <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="40"><br>
-        Algorithm Research
+        <strong>Algorithm Research</strong>
       </td>
-      <td align="center">
+      <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40"><br>
-        Web Development
+        <strong>Web Development</strong>
       </td>
-      <td align="center">
+      <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40"><br>
-        Academic Projects
+        <strong>Academic Projects</strong>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Connect Section with Anime Style -->
+<!-- Connect Section with Animated Icons -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+  Let's Connect & Collaborate
+</h2>
+
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Let's Connect!</h2>
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_ndrzyy99)
+  <a href="https://instagram.com/_ndrzyy99" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
 </div>
 
-<!-- Cool Footer Animation -->
+<!-- Footer with Wave Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,27,35&height=120&section=footer&animation=twinkling"/>
 </div>
