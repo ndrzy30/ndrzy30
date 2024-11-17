@@ -1,15 +1,15 @@
 <!-- Dynamic Header Container -->
 <div align="center">
-  <!-- Main Name with Enhanced Typography -->
+  <!-- Main Name with Enhanced Animation -->
   <div style="margin: 20px 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=65&duration=3000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=⚡+Andre%27Z+⚡" alt="Name"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&duration=3000&pause=1000&color=F9A825&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=Welcome+to+Andre'Z+Profile!;Backend+Developer|+System+Architect;Coding+with+Passion+%26+Precision" alt="Andre'Z Header Animation" />
   </div>
-  
+
   <!-- Enhanced Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="Github Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -20,12 +20,12 @@
 
 <!-- Subtitle Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=25&duration=4000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer;Algorithm+Engineer;System+Architect" alt="Roles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Building+Scalable+Solutions;💡+Crafting+Clean+Code+Designs;⚡+Pioneering+Future+Technologies" alt="Professional Roles Animation"/>
 </div>
 
-<!-- Technology Motion Banner -->
+<!-- 3D Animated Banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://your-3d-animation-link.com/3d-professional-animation.gif" width="600" alt="3D Professional Animation" />
 </div>
 
 <!-- Core Expertise Section -->
@@ -39,58 +39,42 @@
     <tr>
       <td align="center" width="300">
         <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="80" alt="Algorithm">
-        <br>
-        <h3>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=3584E3&center=true&vCenter=true&repeat=true&width=200&height=20&lines=Algorithm+Design" alt="Algorithm Design"/>
-        </h3>
+        <h3>Algorithm Design</h3>
         <sup>Optimization & Analysis</sup>
       </td>
       <td align="center" width="300">
         <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a60-2423-47e0-aaf7-6e5ff0f3fe39.gif" width="80" alt="Architecture">
-        <br>
-        <h3>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=3584E3&center=true&vCenter=true&repeat=true&width=200&height=20&lines=System+Architecture" alt="System Architecture"/>
-        </h3>
+        <h3>System Architecture</h3>
         <sup>Scalable Solutions</sup>
       </td>
       <td align="center" width="300">
         <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8858-0a9075fd5cbb.gif" width="80" alt="Backend">
-        <br>
-        <h3>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=3584E3&center=true&vCenter=true&repeat=true&width=200&height=20&lines=Backend+Engineering" alt="Backend Engineering"/>
-        </h3>
+        <h3>Backend Engineering</h3>
         <sup>Performance & Security</sup>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Technology Arsenal Section -->
-<div align="center">
-  <h2>
-    <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.gif" width="30">
-    Technology Arsenal
-  </h2>
-  
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="70">&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
-  </div>
+<!-- Technology Toolkit Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.gif" width="30">
+  Technology Toolkit
+</h2>
 
-  <div style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </div>
+<div align="center">
+  <p>A curated list of tools and technologies I excel at:</p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 </div>
 
 <!-- Connect Section -->
 <div align="center">
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/216124356-9c7ee416-871b-4456-8dbe-26ee0b13a421.gif" width="30">
-    Connect With Me
+    Let's Connect
   </h2>
   
   <div>
