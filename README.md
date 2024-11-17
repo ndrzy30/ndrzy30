@@ -82,11 +82,11 @@
 
 <div align="center">
   <!-- Main Tech Badges -->
-  <p align="center">
+<!--   <p align="center">
     <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Web%20Dev-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  </p>
+  </p> -->
 
   <!-- Skill Progress Bars -->
   <p align="center">
