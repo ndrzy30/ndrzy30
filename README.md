@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=539bf5&height=150&section=header&text=Andre's%20Digital%20Space&fontSize=55&animation=fadeIn&desc=Backend%20Developer%20|%20Algorithm%20Implementation%20|%20Academic%20Enthusiast&descSize=20&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=539bf5&height=150&section=header&text=Andre%20Digital%20Space&fontSize=55&animation=fadeIn&desc=Backend%20Developer%20|%20Algorithm%20Implementation%20|%20Academic%20Enthusiast&descSize=20&descAlignY=75"/>
 </div>
 
 <!-- Typing Animation -->
