@@ -1,6 +1,5 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,27,35&height=180&section=header&text=Andre's%20Web%20Space&fontSize=55&fontAlignY=35&animation=twinkling&desc=Laravel%20Developer%20|%20Algorithm%20Implementation%20|%20Web%20Solutions&descSize=20&descAlignY=55"/>
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" />
@@ -8,9 +7,7 @@
 
 <!-- Animated Typing -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=500&lines=Laravel+Development;Algorithm+Implementation;Web+Solutions+Architect;Academic+Research;Creative+Problem+Solver" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=500&lines=Laravel+Development;Algorithm+Implementation;Web+Solutions+Architect;Backend+Development;Creative+Problem+Solver" alt="Typing SVG"/>
 </div>
 
 <!-- Profile Views & Location with Animated Icons -->
@@ -37,20 +34,20 @@
 class AndreProfile {
     readonly name = "Andre";
     readonly base = "Medan, Indonesia";
-    readonly roles = ["Backend Developer", "Algorithm Specialist"];
+    readonly roles = ["Laravel Developer", "Backend Specialist"];
     
     get currentFocus() {
         return {
             code: ["Laravel", "PHP", "JavaScript"],
             interests: ["Web Development", "Algorithm Design"],
-            challenge: "Implementing complex algorithms in web solutions"
+            challenge: "Implementing efficient web solutions"
         };
     }
     
-    get academics() {
+    get expertise() {
         return {
-            research: "Algorithm Implementation",
-            approach: "Problem-Solving Oriented",
+            backend: "Laravel & PHP Development",
+            database: "MySQL Optimization",
             focus: "Web-Based Solutions"
         };
     }
@@ -67,9 +64,9 @@ class AndreProfile {
 <div align="center">
   <!-- Main Tech Stack Badges -->
   <p align="center">
-    <a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
-    <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-    <a href="https://developer.mozilla.org" target="_blank"><img src="https://img.shields.io/badge/Web_Dev-1572B6?style=for-the-badge&logo=javascript&logoColor=white" alt="Web Dev"/></a>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Web_Dev-1572B6?style=for-the-badge&logo=javascript&logoColor=white" alt="Web Dev"/>
   </p>
 
   <!-- Skill Progress Bars -->
@@ -92,7 +89,7 @@ class AndreProfile {
 <!-- Current Focus with Animated Icons -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-  Current Endeavors
+  Current Focus Areas
 </h2>
 
 <div align="center">
@@ -100,7 +97,7 @@ class AndreProfile {
     <tr>
       <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="40"><br>
-        <strong>Algorithm Research</strong>
+        <strong>Algorithm Implementation</strong>
       </td>
       <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40"><br>
@@ -108,7 +105,7 @@ class AndreProfile {
       </td>
       <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40"><br>
-        <strong>Academic Projects</strong>
+        <strong>Backend Solutions</strong>
       </td>
     </tr>
   </table>
@@ -117,13 +114,11 @@ class AndreProfile {
 <!-- Connect Section with Animated Icons -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-  Let's Connect & Collaborate
+  Let's Connect
 </h2>
 
 <div align="center">
-  <a href="https://instagram.com/_ndrzyy99" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </div>
 
 <!-- Footer with Wave Animation -->
