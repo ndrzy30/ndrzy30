@@ -1,8 +1,4 @@
-<!-- Animated 3D Header with Fire Effect -->
-<div align="center">
-
-  
-  <!-- Second Layer: Moving Fire Effect -->
+<!-- Second Layer: Moving Fire Effect -->
   <a href="https://github.com/ndrzy30">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TylerPottsDev/TylerPottsDev/master/fire.gif">
