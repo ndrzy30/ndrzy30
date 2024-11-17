@@ -1,10 +1,3 @@
-<!-- Second Layer: Moving Fire Effect -->
-  <a href="https://github.com/ndrzy30">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TylerPottsDev/TylerPottsDev/master/fire.gif">
-      <img src="https://raw.githubusercontent.com/TylerPottsDev/TylerPottsDev/master/fire.gif" width="100%">
-    </picture>
-  </a>
 
   <!-- Third Layer: Cyberpunk Name -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=65&duration=4000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=%3C+ANDRE'Z+%2F%3E" alt="Name"/>
