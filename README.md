@@ -1,7 +1,7 @@
+<!-- Epic Matrix-style Header -->
 <div align="center">
-  <!-- Enigmatic Header -->
   <a href="https://github.com/ndrzy30">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Andre'Z&fontSize=90&color=0:000000,100:1a1b27&animation=twinkling&fontColor=4169E1&stroke=4169E1&strokeWidth=2&desc=Digital%20Artisan%20%7C%20Code%20Architect&descSize=25&descAlignY=65"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,30&height=300&section=header&text=ANDRE'Z&fontSize=90&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Digital%20Architect%20|%20Code%20Mystic&descSize=20&descAlignY=55"/>
   </a>
 </div>
 
@@ -14,89 +14,101 @@
   </picture>
 </div>
 
-<!-- Enigmatic Introduction -->
+<!-- Dynamic Text Effect -->
 <div align="center">
   <a href="https://github.com/ndrzy30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=4169E1&center=true&vCenter=true&repeat=true&width=600&height=100&lines=⚡+Master+of+Digital+Realms+⚡;🌊+Weaving+Code+Into+Reality+🌊;🔮+Crafting+Digital+Excellence+🔮" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=600&height=100&lines=⚡+Digital+Craftsman+⚡;🌌+Backend+Sorcerer+🌌;🔮+Code+Alchemist+🔮" alt="Typing SVG"/>
   </a>
 </div>
 
-<!-- Arcane Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation"/>
+</p>
 
-<!-- Mystical Arsenal -->
+<!-- Arsenal Section with Animated Icons -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/jO18SawuDxNQ1f2jQz/giphy.gif" width="25px"> 
-    Arcane Arsenal
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> 
+    Mystical Arsenal
   </h2>
 
-  <!-- Primary Tools -->
+  <!-- Core Technologies with Animated Background -->
   <div style="background: #000000; padding: 20px; border-radius: 10px; margin: 10px;">
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100px"/>
+    <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100px"/>
     <br><br>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000"/>
-  </div>
-
-  <!-- Secondary Tools -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,postman&theme=dark"/>
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000"/>
   </div>
 </div>
 
-<!-- Realm Focus -->
+<!-- Animated Tech Stack -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,postman&theme=dark"/>
+</div>
+
+<!-- Cool Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- Realm of Expertise with Animated Cards -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="25px"> 
-    Realm of Expertise
+    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30">
+    Realms of Mastery
   </h2>
 
   <table bgcolor="000000">
     <tr>
       <td align="center" width="200">
-        <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized-large.gif" width="60px">
+        <img src="https://media.giphy.com/media/hUFJQ1halIxDxS4r8m/giphy.gif" width="60px">
         <br>
-        <strong>Backend Sorcery</strong>
+        <strong>Backend Engineering</strong>
       </td>
       <td align="center" width="200">
-        <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="60px">
+        <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="60px">
         <br>
         <strong>Clean Architecture</strong>
       </td>
       <td align="center" width="200">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60px">
+        <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="60px">
         <br>
-        <strong>Code Optimization</strong>
+        <strong>Performance Wizardry</strong>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Mystical Quote -->
+<!-- Another Cool Divider -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=The+Code+Whispers+Its+Secrets;Building+Digital+Dreams;Mastering+The+Art+of+Backend" alt="Typing SVG"/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 </div>
 
-<!-- Enigmatic Portals -->
+<!-- Connection Portals -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM5NmI2YzhlMzEwZGE5MGYwYjRmNzE5OWJkYjJlZWQ5ZmJjZTVlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="25px">
-    Mystic Portals
+    <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="30"> 
+    Digital Nexus
   </h2>
 
   <div>
     <a href="https://www.instagram.com/_ndrzyy99/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black"/>
     </a>
     <a href="https://github.com/ndrzy30">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
     </a>
   </div>
 </div>
 
-<!-- Enigmatic Footer -->
+<!-- Epic Footer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+</p>
+
+<!-- Final Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=150&color=gradient&customColorList=0,2,2,5,30"/>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
