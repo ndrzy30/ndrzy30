@@ -1,6 +1,5 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,27,35&height=180&section=header&text=Andre's%20Web%20Space&fontSize=55&fontAlignY=35&animation=twinkling&desc=Laravel%20Developer%20|%20Algorithm%20Implementation%20|%20Web%20Solutions&descSize=20&descAlignY=55"/>
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" />
