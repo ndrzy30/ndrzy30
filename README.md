@@ -1,28 +1,25 @@
 <!-- Dynamic Header Container -->
 <div align="center">
-  <!-- Animated Snake Layer -->
-  <div style="position: relative; width: 100%; height: 150px; overflow: hidden; background: linear-gradient(90deg, #000000, #1c1c1c);">
-    <img src="https://user-images.githubusercontent.com/74038190/229001142-ebb5b8ea-c3d2-4fbc-8489-77d2babc7dfb.gif" 
-         alt="Snake Animation" 
-         style="width: 100%; animation: moveSnake 10s linear infinite;">
-  </div>
-
   <!-- Main Name with Enhanced Typography -->
-  <div style="margin: -100px 0 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=65&duration=4000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=⚡+ANDRE'Z+⚡" alt="Name" />
+  <div style="margin: 20px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=65&duration=4000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=⚡+Andre%22Z+⚡" alt="Name"/>
   </div>
-
-  <!-- Subtitle Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer;Algorithm+Engineer;System+Architect" alt="Roles" />
+  
+  <!-- Unique Snake Animation -->
+  <div>
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  </div>
 </div>
 
-<!-- Animated Snake Keyframes -->
-<style>
-@keyframes moveSnake {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
-</style>
+<!-- Dynamic Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+<!-- Subtitle Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer;Algorithm+Engineer;System+Architect" alt="Roles"/>
+</div>
 
 <!-- Technology Motion Banner -->
 <div align="center">
@@ -55,4 +52,69 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </div>
+</div>
+
+<!-- Core Expertise -->
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.gif" width="30">
+    Core Expertise
+  </h2>
+  
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="60">
+        <br>
+        <strong>Algorithm Design</strong>
+        <br>
+        <sub>Optimization & Analysis</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a60-2423-47e0-aaf7-6e5ff0f3fe39.gif" width="60">
+        <br>
+        <strong>System Architecture</strong>
+        <br>
+        <sub>Scalable Solutions</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8858-0a9075fd5cbb.gif" width="60">
+        <br>
+        <strong>Backend Engineering</strong>
+        <br>
+        <sub>Performance & Security</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Development Process -->
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/216122072-f2c04793-8d05-4d8f-a489-55f269b800ce.gif" width="30">
+    Development Focus
+  </h2>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+</div>
+
+<!-- Professional Network -->
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/216124356-9c7ee416-871b-4456-8dbe-26ee0b13a421.gif" width="30">
+    Connect With Me
+  </h2>
+  
+  <div>
+    <a href="https://www.instagram.com/_ndrzyy99/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://github.com/ndrzy30">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+</div>
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
