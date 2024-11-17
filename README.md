@@ -4,7 +4,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,27,35&height=180&section=header&text=Andre'Z%20Web%20Space&fontSize=55&fontAlignY=35&animation=twinkling&desc=Laravel%20Developer%20|%20Algorithm%20Implementation%20|%20Web%20Solutions&descSize=20&descAlignY=55"/>
   </a>
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" />
+  <a href="https://github.com/ndrzy30">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" />
+  </a>
 </div>
 
 <!-- Animated Typing -->
@@ -34,8 +36,8 @@
 <!-- About Me Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
     <a href="https://github.com/ndrzy30">
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=435&lines=About+Me+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Who+am+I+%3F" alt="About Me"/>
     </a>
   </h2>
@@ -59,9 +61,13 @@
   <!-- Animated Icons -->
   <a href="https://github.com/ndrzy30">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"/> Currently working on web solutions
-    <br>
+  </a>
+  <br>
+  <a href="https://github.com/ndrzy30">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25"/> Interested in algorithms & efficient code
-    <br>
+  </a>
+  <br>
+  <a href="https://github.com/ndrzy30">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="25"/> Always exploring new technologies
   </a>
 </div>
@@ -92,13 +98,15 @@
 
 <!-- Tech Stack Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
-  Tech Proficiency
-  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
+    Tech Proficiency
+    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40">
+  </a>
 </h2>
 
 <div align="center">
-  <!-- Main Tech Badges -->
+<!--   Main Tech Badges -->
   <p align="center">
     <a href="https://github.com/ndrzy30">
       <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
@@ -109,14 +117,18 @@
 
   <!-- Development Tools & Technologies -->
   <div align="center">
+    <!-- Backend & Frameworks -->
     <a href="https://github.com/ndrzy30">
-      <!-- Backend & Frameworks -->
       <img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark" />
-      <br>
-      <!-- Frontend -->
+    </a>
+    <br>
+    <!-- Frontend -->
+    <a href="https://github.com/ndrzy30">
       <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-      <br>
-      <!-- Tools -->
+    </a>
+    <br>
+    <!-- Tools -->
+    <a href="https://github.com/ndrzy30">
       <img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" />
     </a>
   </div>
@@ -145,8 +157,10 @@
 
 <!-- Current Focus with Animated Icons -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-  Current Focus Areas
+  <a href="https://github.com/ndrzy30">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+    Current Focus Areas
+  </a>
 </h2>
 
 <div align="center">
@@ -176,12 +190,14 @@
 
 <!-- Connect Section with Animated Icons -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-  Let's Connect
+  <a href="https://github.com/ndrzy30">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+    Let's Connect
+  </a>
 </h2>
 
 <div align="center">
-  <a href="https://github.com/ndrzy30">
+  <a href="https://www.instagram.com/_ndrzyy99/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
