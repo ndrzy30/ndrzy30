@@ -1,135 +1,139 @@
+<!-- Matrix Rain Effect Header -->
 <div align="center">
-  <!-- Elegant Header with Gradient -->
   <a href="https://github.com/ndrzy30">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=170&section=header&text=Andre'Z&desc=Laravel%20Developer%20%7C%20Backend%20Engineer&animation=fadeIn&fontColor=fff&fontSize=65&fontAlignY=30&descSize=20&descAlignY=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Andre'Z&fontSize=80&color=0:000000,100:4169E1&stroke=4169E1&animation=fadeIn&fontColor=FFFFFF&strokeWidth=2"/>
   </a>
+</div>
 
-  <!-- Dynamic Welcome Message -->
-  <div>
-    <a href="https://github.com/ndrzy30">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+Digital+Space+%F0%9F%8C%9F;Backend+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Crafting+Web+Solutions+with+Laravel+%E2%9C%A8" alt="Typing SVG"/>
-    </a>
-  </div>
+<!-- Animated Dragon Title -->
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&repeat=true&width=580&lines=🔥+Backend+Sorcerer+%7C+Code+Artisan+🔮;⚡+Laravel+Maestro+%7C+Web+Alchemist+⚡;🌊+Digital+Craftsman+%7C+Tech+Wizard+🌌" alt="Typing SVG"/>
+  </a>
+</div>
 
-  <!-- Profile Views Counter -->
-  <div>
-    <a href="https://github.com/ndrzy30">
-      <img src="https://komarev.com/ghpvc/?username=ndrzy30&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" alt="profile views"/>
-    </a>
-  </div>
+<!-- Mystical Badges -->
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://komarev.com/ghpvc/?username=ndrzy30&style=for-the-badge&color=000000&label=COSMIC+VISITORS" alt="profile views"/>
+  </a>
+</div>
 
-  <br>
+<br>
 
-  <!-- About Me Section -->
+<!-- Animated Dragon Divider -->
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://raw.githubusercontent.com/ndrzy30/ndrzy30/main/assets/colored.png" width="100%" height="4px"/>
+  </a>
+</div>
+
+<!-- Mystical Tech Arsenal -->
+<div align="center">
   <h2>
     <a href="https://github.com/ndrzy30">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> 
-      About Me
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 
+      Mystical Tech Arsenal
+    </a>
+  </h2>
+  
+  <!-- Primary Weapons -->
+  <div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExank4emh5N3E0bm5lY2I0M3QyNHFidWJ3ZjV6bW45bjZ1dWU2aDF5ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/> 
+    <br>
+    <a href="https://github.com/ndrzy30">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=black"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black"/>
+    </a>
+  </div>
+
+  <!-- Digital Spellbook -->
+  <div>
+    <br>
+    <a href="https://github.com/ndrzy30">
+      <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,postman&theme=dark"/>
+    </a>
+  </div>
+</div>
+
+<br>
+
+<!-- Magical Stats -->
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ndrzy30&theme=midnight-purple&hide_border=true&border_radius=10&fire=2C35DF&ring=375AE8&currStreakLabel=375AE8"/>
+  </a>
+</div>
+
+<!-- Mystical Focus Areas -->
+<div align="center">
+  <h2>
+    <a href="https://github.com/ndrzy30">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXIzNTFvdDNkOHY3YjJ3MGE5OWdlZnJzM2NhaTdyMWh3ZHAxbzR6ZyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
+      Arcane Focuses
     </a>
   </h2>
 
-  <p>
-    <strong>🎯 Passionate Laravel Developer focused on crafting efficient web solutions</strong><br>
-    <strong>🌱 Always learning and exploring new technologies</strong><br>
-    <strong>⚡ Dedicated to writing clean, maintainable code</strong>
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <a href="https://github.com/ndrzy30">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQxb2IzajhxbzRuaTZyZnNtY3ZvNXZwdXNyZTQzOTNzd3F2NmR1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/coxQHKASG60HrHtvkt/giphy.gif" width="50"><br>
+          <strong>Web Sorcery</strong>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://github.com/ndrzy30">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc5NGV1bmtpY3ZwdHQ0ZHhpdm50MGt6Y3B0N3V4NnVzYjZqaW9hdyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPc9VZj4ylzjcys/giphy-downsized-large.gif" width="50"><br>
+          <strong>Code Mastery</strong>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://github.com/ndrzy30">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU0dWJvOWhxM2pzN3dmZ2o1YmVqd3h6bWVqcGwzMzZiOGIwc2JqbyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif" width="50"><br>
+          <strong>Digital Alchemy</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <!-- Tech Stack -->
+<!-- Magical Connection Portal -->
+<div align="center">
   <h2>
     <a href="https://github.com/ndrzy30">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" />
-      Technologies & Tools
-    </a>
-  </h2>
-
-  <!-- Primary Stack -->
-  <div>
-    <a href="https://github.com/ndrzy30">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    </a>
-  </div>
-
-  <!-- Development Tools -->
-  <div>
-    <a href="https://github.com/ndrzy30">
-      <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,postman&theme=dark" />
-    </a>
-  </div>
-
-  <br>
-
-  <!-- Current Focus Areas -->
-  <h2>
-    <a href="https://github.com/ndrzy30">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" />
-      Current Focus
-    </a>
-  </h2>
-
-  <div>
-    <table>
-      <tr>
-        <td align="center" width="150">
-          <a href="https://github.com/ndrzy30">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning.png" width="40"><br>
-            <strong>Web Solutions</strong>
-          </a>
-        </td>
-        <td align="center" width="150">
-          <a href="https://github.com/ndrzy30">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="40"><br>
-            <strong>Clean Code</strong>
-          </a>
-        </td>
-        <td align="center" width="150">
-          <a href="https://github.com/ndrzy30">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40"><br>
-            <strong>Algorithms</strong>
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <br>
-
-  <!-- GitHub Stats -->
-  <div>
-    <a href="https://github.com/ndrzy30">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ndrzy30&theme=tokyonight&hide_border=true&border_radius=10&card_width=500" alt="GitHub Stats"/>
-    </a>
-  </div>
-
-  <br>
-
-  <!-- Connect Section -->
-  <h2>
-    <a href="https://github.com/ndrzy30">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" />
-      Let's Connect
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXplOWdxeDR1Mm5icHdyb2wzMW1mN2tlNzljdGxlbDR1OHEwNWprNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jO18SawuDxNQ1f2jQz/giphy.gif" width="30">
+      Mystical Portals
     </a>
   </h2>
 
   <div>
     <a href="https://www.instagram.com/_ndrzyy99/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black"/>
     </a>
     <a href="https://github.com/ndrzy30">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
     </a>
   </div>
+</div>
 
-  <br>
+<br>
 
-  <!-- Snake Animation -->
+<!-- Mystical Activity Snake -->
+<div align="center">
   <a href="https://github.com/ndrzy30">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    </picture>
   </a>
+</div>
 
-  <!-- Elegant Footer -->
+<!-- Mystical Footer -->
+<div align="center">
   <a href="https://github.com/ndrzy30">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=120&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=shark&height=150&color=gradient&customColorList=0,2,2,5,30&section=footer"/>
   </a>
 </div>
