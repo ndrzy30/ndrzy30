@@ -1,16 +1,14 @@
 <!-- Dynamic Header Container -->
 <div align="center">
-  <!-- Main Name with Enhanced Animation -->
+  <!-- Animated Header with Modern Effect -->
   <div style="margin: 20px 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&duration=3000&pause=1000&color=F9A825&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=Welcome+to+Andre'Z+Profile!;Backend+Developer|+System+Architect;Coding+with+Passion+%26+Precision" alt="Andre'Z Header Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=45&duration=4000&pause=1000&color=FF6F00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Hi+There!+👋;Welcome+to+Andre'Z+Profile!;Crafting+Scalable+Code+Solutions" alt="Animated Header">
   </div>
+</div>
 
-  <!-- Enhanced Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Github Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+<!-- Cool Coding Animation -->
+<div align="center">
+  <img src="https://your-coding-gif-link.com/coding-gif.gif" alt="Coding Animation" width="500">
 </div>
 
 <!-- Dynamic Separator -->
@@ -20,15 +18,10 @@
 
 <!-- Subtitle Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Building+Scalable+Solutions;💡+Crafting+Clean+Code+Designs;⚡+Pioneering+Future+Technologies" alt="Professional Roles Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Solving+Complex+Problems;💻+Building+Backend+Excellence;⚡+Future-Focused+Technologies" alt="Professional Roles Animation">
 </div>
 
-<!-- 3D Animated Banner -->
-<div align="center">
-  <img src="https://your-3d-animation-link.com/3d-professional-animation.gif" width="600" alt="3D Professional Animation" />
-</div>
-
-<!-- Core Expertise Section -->
+<!-- Expertise Section with Animations -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.gif" width="30">
   Core Expertise
@@ -37,33 +30,46 @@
 <div align="center">
   <table>
     <tr>
+      <!-- Algorithm Design -->
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="80" alt="Algorithm">
-        <h3>Algorithm Design</h3>
-        <sup>Optimization & Analysis</sup>
+        <img src="https://your-animation-link.com/algorithm-animation.gif" width="100" alt="Algorithm Design Animation">
+        <h3 style="color:#FF6F00;">Algorithm Design</h3>
+        <p style="font-style:italic;">Optimization & Analysis</p>
       </td>
+      
+      <!-- System Architecture -->
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a60-2423-47e0-aaf7-6e5ff0f3fe39.gif" width="80" alt="Architecture">
-        <h3>System Architecture</h3>
-        <sup>Scalable Solutions</sup>
+        <img src="https://your-animation-link.com/architecture-animation.gif" width="100" alt="System Architecture Animation">
+        <h3 style="color:#42A5F5;">System Architecture</h3>
+        <p style="font-style:italic;">Scalable Solutions</p>
       </td>
+      
+      <!-- Backend Engineering -->
       <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8858-0a9075fd5cbb.gif" width="80" alt="Backend">
-        <h3>Backend Engineering</h3>
-        <sup>Performance & Security</sup>
+        <img src="https://your-animation-link.com/backend-animation.gif" width="100" alt="Backend Engineering Animation">
+        <h3 style="color:#26A69A;">Backend Engineering</h3>
+        <p style="font-style:italic;">Performance & Security</p>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Technology Toolkit Section -->
+<!-- Technology Arsenal Section -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.gif" width="30">
-  Technology Toolkit
+  Tools & Technologies
 </h2>
 
 <div align="center">
-  <p>A curated list of tools and technologies I excel at:</p>
+  <!-- Add cool GIFs/icons for tools -->
+  <img src="https://your-icon-link.com/tool1.gif" alt="Tool 1" width="70">&nbsp;&nbsp;
+  <img src="https://your-icon-link.com/tool2.gif" alt="Tool 2" width="70">&nbsp;&nbsp;
+  <img src="https://your-icon-link.com/tool3.gif" alt="Tool 3" width="70">&nbsp;&nbsp;
+  <img src="https://your-icon-link.com/tool4.gif" alt="Tool 4" width="70">
+</div>
+
+<div align="center" style="margin-top:20px;">
+  <!-- Add styled badges -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
