@@ -1,7 +1,6 @@
 <!-- Animated 3D Header with Fire Effect -->
 <div align="center">
-  <!-- First layer: 3D Geometric Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
+
   
   <!-- Second Layer: Moving Fire Effect -->
   <a href="https://github.com/ndrzy30">
