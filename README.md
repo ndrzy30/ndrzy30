@@ -1,114 +1,113 @@
-<!-- Epic Matrix-style Header -->
+<!-- Elegant Professional Header -->
 <div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,30&height=300&section=header&text=ANDRE'Z&fontSize=90&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Digital%20Architect%20|%20Code%20Mystic&descSize=20&descAlignY=55"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,16,18,20&height=150&section=header&text=&fontSize=70&animation=fadeIn"/>
+  
+  <!-- Animated Name with Code Background -->
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&duration=3000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=130&lines=%3C+ANDRE'Z+%2F%3E;Algorithm+Engineer+%7C+Web+Architect" alt="Name"/>
+  
+  <!-- Professional Animation Strip -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
-<!-- Mystical Snake Animation -->
+<!-- Academic Background Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70">
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=75&lines=Backend+Development+%F0%9F%8C%90;Algorithm+Design+%F0%9F%94%A5;System+Architecture+%E2%9A%A1" alt="Skills"/>
 </div>
 
-<!-- Dynamic Text Effect -->
-<div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=600&height=100&lines=⚡+Digital+Craftsman+⚡;🌌+Backend+Sorcerer+🌌;🔮+Code+Alchemist+🔮" alt="Typing SVG"/>
-  </a>
-</div>
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation"/>
-</p>
-
-<!-- Arsenal Section with Animated Icons -->
+<!-- Professional Tech Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> 
-    Mystical Arsenal
+    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
+    Tech Architecture
   </h2>
-
-  <!-- Core Technologies with Animated Background -->
-  <div style="background: #000000; padding: 20px; border-radius: 10px; margin: 10px;">
-    <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100px"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000"/>
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=000000"/>
-    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000"/>
+  
+  <!-- Main Tech Stack -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <br>
+  
+  <!-- Framework & Languages -->
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+    <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="80">
+  </div>
+  
+  <!-- Tech Badges -->
+  <div>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </div>
 </div>
 
-<!-- Animated Tech Stack -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,postman&theme=dark"/>
-</div>
-
-<!-- Cool Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<!-- Realm of Expertise with Animated Cards -->
+<!-- Academic Focus Areas -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30">
-    Realms of Mastery
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="35">
+    Research & Development
   </h2>
-
-  <table bgcolor="000000">
+  
+  <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://media.giphy.com/media/hUFJQ1halIxDxS4r8m/giphy.gif" width="60px">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
+        <br>
+        <strong>Algorithm Design</strong>
+        <br>
+        <sub>Optimization & Analysis</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60">
+        <br>
+        <strong>System Architecture</strong>
+        <br>
+        <sub>Scalable Solutions</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709886-d1d6-4e53-b9c6-419a8e58b70c.gif" width="60">
         <br>
         <strong>Backend Engineering</strong>
-      </td>
-      <td align="center" width="200">
-        <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="60px">
         <br>
-        <strong>Clean Architecture</strong>
-      </td>
-      <td align="center" width="200">
-        <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="60px">
-        <br>
-        <strong>Performance Wizardry</strong>
+        <sub>Performance & Security</sub>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Another Cool Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-</div>
-
-<!-- Connection Portals -->
+<!-- Development Process -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="30"> 
-    Digital Nexus
+    <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="35">
+    Development Methodology
   </h2>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+</div>
 
+<!-- Professional Connection -->
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.gif" width="35">
+    Professional Network
+  </h2>
+  
   <div>
     <a href="https://www.instagram.com/_ndrzyy99/">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <a href="https://github.com/ndrzy30">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </div>
 </div>
 
-<!-- Epic Footer Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-</p>
-
-<!-- Final Animation -->
+<!-- Professional Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&fontSize=70"/>
 </div>
