@@ -1,29 +1,41 @@
+<!-- Dynamic Header Container -->
+<div align="center">
+  <!-- Animated Background Layer -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
+  
+  <!-- Left Side Decoration -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="280" align="left">
+  
+  <!-- Right Side Decoration -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="280" align="right">
 
-  <!-- Third Layer: Cyberpunk Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=65&duration=4000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=%3C+ANDRE'Z+%2F%3E" alt="Name"/>
+  <!-- Main Name with Enhanced Typography -->
+  <div style="margin: 20px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=65&duration=4000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=⚡+ANDRE'Z+⚡" alt="Name"/>
+  </div>
 
-  <!-- Fourth Layer: Animated Development Icons -->
+  <!-- Subtitle Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer;Algorithm+Engineer;System+Architect" alt="Roles"/>
+</div>
+
+<!-- Technology Motion Banner -->
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<!-- Animated Separator -->
+<!-- Dynamic Separator -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<!-- Professional Description -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E3&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=75&lines=Backend+Development+%F0%9F%8C%90;Algorithm+Design+%F0%9F%94%A5;System+Architecture+%E2%9A%A1" alt="Skills"/>
-</div>
-
-<!-- Tech Stack Section -->
+<!-- Tech Arsenal Section -->
 <div align="center">
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.gif" width="30">
     Technology Arsenal
   </h2>
   
-  <!-- Animated Tech Stack Icons -->
+  <!-- Animated Tech Icons -->
   <div>
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
     <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="70">
@@ -31,19 +43,19 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
   </div>
 
-  <!-- Tech Badges -->
-  <div>
+  <!-- Tech Stack Badges -->
+  <div style="margin: 20px 0;">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </div>
 </div>
 
-<!-- Core Competencies -->
+<!-- Core Expertise -->
 <div align="center">
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.gif" width="30">
-    Core Competencies
+    Core Expertise
   </h2>
   
   <table>
@@ -99,8 +111,7 @@
   </div>
 </div>
 
-<!-- Animated Footer with Matrix Effect -->
+<!-- Footer Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&fontSize=70"/>
 </div>
