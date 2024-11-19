@@ -21,31 +21,6 @@
   </a>
 </div>
 
-
-<!-- Animated Typing -->
-<div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=500&lines=Laravel+Development;Algorithm+Implementation;Web+Solutions+Architect;Backend+Development;Creative+Problem+Solver" alt="Typing SVG"/>
-  </a>
-</div>
-
-<!-- Profile Views & Location with Animated Icons -->
-<div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://komarev.com/ghpvc/?username=ndrzy30&label=Profile%20Visits&color=6A9BF7&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ndrzy30">
-    <img src="https://img.shields.io/badge/🌏_Medan,_ID-Profile-6A9BF7?style=for-the-badge" />
-  </a>
-</div>
-
-<!-- Matrix Code Animation -->
-<div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </a>
-</div>
-
 <!-- Tech Stack Section -->
 <h2 align="center">
   <a href="https://github.com/ndrzy30">
@@ -75,6 +50,30 @@
   </p>
 </div>
 
+
+<!-- Animated Typing -->
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=500&lines=Laravel+Development;Algorithm+Implementation;Web+Solutions+Architect;Backend+Development;Creative+Problem+Solver" alt="Typing SVG"/>
+  </a>
+</div>
+
+<!-- Profile Views & Location with Animated Icons -->
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://komarev.com/ghpvc/?username=ndrzy30&label=Profile%20Visits&color=6A9BF7&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ndrzy30">
+    <img src="https://img.shields.io/badge/🌏_Medan,_ID-Profile-6A9BF7?style=for-the-badge" />
+  </a>
+</div>
+
+<!-- Matrix Code Animation -->
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </a>
+</div>
 
 
 <!-- Combined Focus Areas & Connect Section -->
