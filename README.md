@@ -62,20 +62,6 @@
 </div>
 
 
-<!-- Combined Focus Areas & Connect Section -->
-<div align="center">
-  <!-- Left Section - Focus Areas -->
-  <a href="https://github.com/ndrzy30" style="text-decoration: none;">
-    <h2 style="margin: 0;">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;"> 
-      Current Focus
-    </h2>
-    <div style="display: inline-block; margin: 10px 20px;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" style="vertical-align: middle;"> Algorithm Implementation &nbsp;|&nbsp;
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" style="vertical-align: middle;"> Web Development &nbsp;|&nbsp;
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" style="vertical-align: middle;"> Backend Solutions
-    </div>
-  </a>
 
   <!-- Right Section - Connect -->
   <a href="https://github.com/ndrzy30" style="text-decoration: none;">
