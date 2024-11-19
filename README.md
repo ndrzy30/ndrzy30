@@ -25,7 +25,7 @@
 <h2 align="center">
   <a href="https://github.com/ndrzy30">
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-    Tech Stack
+    Software Engineering Proficiency
     <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
   </a>
 </h2>
