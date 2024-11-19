@@ -34,7 +34,7 @@
   <!-- All Skills in Single Line -->
 
 <a href="https://github.com/ndrzy30">
-    <img src="https://skillicons.dev/icons?i=python,cpp,laravel,php,mysql,html,css,js,git,vscode,laragon,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,laravel,php,mysql,html,css,js,git,vscode,postman&theme=dark" />
   </a>
   
   <!-- Tech Badges in Single Line -->
