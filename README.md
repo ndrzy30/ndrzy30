@@ -40,7 +40,7 @@
 
 <!-- Matrix Code Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/kod1Id1oH1hkY/giphy.gif" width="100%" height="150">
+  <img src="https://media.giphy.com/media/3ohs4jonnOQl7bd3Q4/giphy.gif" width="100%" height="150">
 </div>
 
 
