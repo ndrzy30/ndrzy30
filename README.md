@@ -12,14 +12,6 @@
 </div>
 
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=500&lines=Building+robust+applications+with+Laravel+%26+PHP;Crafting+efficient+database+solutions;Clean+code+advocate" alt="Tech Focus"/>
-  </a>
-</div>
-
 
 <!-- Animated Typing -->
 <div align="center">
