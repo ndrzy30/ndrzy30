@@ -12,9 +12,8 @@
 </div>
 
 <!-- Profile Views & Location with Animated Icons -->
-  <a href="https://github.com/ndrzy30">
-    <img src="https://img.shields.io/badge/🌏_Medan,_Indonesia-Profile-6A9BF7?style=for-the-badge" />
-  </a>
+<div align="center">
+    <img src="https://img.shields.io/badge/🌏_Medan,_Indonesia-6A9BF7?style=for-the-badge" alt="Location: Medan, Indonesia" />
 </div>
 
 <!-- Tech Stack Section -->
