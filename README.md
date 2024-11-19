@@ -40,9 +40,8 @@
 
 <!-- Matrix Code Animation -->
 <div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://raw.githubusercontent.com/ndrzy30/ndrzy30/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ndrzy30&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndrzy30&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <!-- footer -->
