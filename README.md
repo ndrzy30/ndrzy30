@@ -22,45 +22,37 @@
 </div>
 
 <!-- Tech Stack Section -->
-<h2 align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-    Tech Stack
-    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
-  </a>
-</h2>
 <div align="center">
+  <h1>Tech Stack</h1>
   
-  <!-- All Skills Icons in Single Line -->
+  <!-- Tech Icons First Line -->
   <a href="https://github.com/ndrzy30">
-    <img src="path/to/python-icon.png" alt="Python" width="48" />
-    <img src="path/to/cpp-icon.png" alt="C++" width="48" />
-    <img src="path/to/laravel-icon.png" alt="Laravel" width="48" />
-    <img src="path/to/php-icon.png" alt="PHP" width="48" />
-    <img src="path/to/mysql-icon.png" alt="MySQL" width="48" />
-    <img src="path/to/html-icon.png" alt="HTML" width="48" />
-    <img src="path/to/css-icon.png" alt="CSS" width="48" />
-    <img src="path/to/js-icon.png" alt="JavaScript" width="48" />
-    <img src="path/to/git-icon.png" alt="Git" width="48" />
-    <img src="path/to/vscode-icon.png" alt="VSCode" width="48" />
-    <img src="path/to/postman-icon.png" alt="Postman" width="48" />
-    <img src="path/to/laragon-icon.png" alt="Laragon" width="48" />
+    <img src="python-icon.png" alt="Python" />
+    <img src="cpp-icon.png" alt="C++" />
+    <img src="laravel-icon.png" alt="Laravel" />
+    <img src="php-icon.png" alt="PHP" />
+    <img src="mysql-icon.png" alt="MySQL" />
+    <img src="html-icon.png" alt="HTML" />
+    <img src="css-icon.png" alt="CSS" />
+    <img src="js-icon.png" alt="JavaScript" />
+    <img src="git-icon.png" alt="Git" />
+    <img src="vscode-icon.png" alt="VSCode" />
+    <img src="postman-icon.png" alt="Postman" />
+    <img src="laragon-icon.png" alt="Laragon" />
   </a>
-  
-  <!-- Tech Badges in Single Line -->
-  <p align="center">
-    <a href="https://github.com/ndrzy30">
-      <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/LARAVEL-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/WEB%20DEV-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-      <img src="https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/VSCODE-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-      <img src="https://img.shields.io/badge/LARAGON-0E83CD?style=for-the-badge&logo=laragon&logoColor=white">
-    </a>
-  </p>
+
+  <!-- Tech Labels Second Line -->
+  <div>
+    <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/-LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/-WEB%20DEV-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/-MYSQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/-VSCODE-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/-LARAGON-0E83CD?style=for-the-badge&logo=laragon&logoColor=white">
+  </div>
 </div>
 
 <!-- Matrix Code Animation -->
