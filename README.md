@@ -41,7 +41,7 @@
 <!-- Matrix Code Animation -->
 <div align="center">
   <a href="https://github.com/ndrzy30">
-    <img src="https://github.com/ndrzy30/ndrzy30/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndrzy30&theme=react-dark&hide_border=true&area=true" width="100%">
   </a>
 </div>
 
