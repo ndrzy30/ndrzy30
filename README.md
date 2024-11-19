@@ -5,15 +5,11 @@
   </a>
 
   <!-- About Me Section -->
-
-
 <div align="center">
   <a href="https://github.com/ndrzy30">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="150" />
   </a>
 </div>
-
-
 
 <!-- Tech Stack Section -->
 <h2 align="center">
@@ -61,8 +57,6 @@
   </a>
 </div>
 
-
-
   <!-- Right Section - Connect -->
   <a href="https://github.com/ndrzy30" style="text-decoration: none;">
     <h2 style="margin: 0;">
@@ -77,9 +71,3 @@
   </a>
 </div>
 
-<!-- Footer -->
-<div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,27,35&height=120&section=footer&animation=twinkling"/>
-  </a>
-</div>
