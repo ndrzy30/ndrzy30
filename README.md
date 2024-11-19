@@ -41,10 +41,9 @@
 <!-- Matrix Code Animation -->
 <div align="center">
   <a href="https://github.com/ndrzy30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+Developer;Backend+Developer;PHP+Developer" width="100%">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
   </a>
 </div>
-
 <!-- footer -->
   <a href="https://www.instagram.com/_ndrzyy99" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
