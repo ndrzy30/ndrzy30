@@ -4,11 +4,33 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,27,35&height=180&section=header&text=Andre'Z%20Web%20Space&fontSize=55&fontAlignY=35&animation=twinkling&desc=Laravel%20Developer%20|%20Algorithm%20Implementation%20|%20Web%20Solutions&descSize=20&descAlignY=55"/>
   </a>
 
-  <!-- About Me Section -->
-<div align="center">
+  <!-- Tech Stack Section -->
+<h2 align="center">
   <a href="https://github.com/ndrzy30">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="150" />
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+    Tech Stack
+    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
   </a>
+</h2>
+<div align="center">
+  <!-- All Skills in Single Line -->
+  <a href="https://github.com/ndrzy30">
+    <img src="https://skillicons.dev/icons?i=python,cpp,laravel,php,mysql,html,css,js,git,vscode,postman&theme=dark" />
+  </a>
+  
+  <!-- Tech Badges in Single Line -->
+  <p align="center">
+    <a href="https://github.com/ndrzy30">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/Web%20Dev-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    </a>
+  </p>
 </div>
 
 
@@ -37,34 +59,36 @@
   </a>
 </div>
 
-<!-- Tech Stack Section -->
-<h2 align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-    Tech Stack
-    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
-  </a>
-</h2>
+<!-- About Me Section -->
 <div align="center">
-  <!-- All Skills in Single Line -->
-  <a href="https://github.com/ndrzy30">
-    <img src="https://skillicons.dev/icons?i=python,cpp,laravel,php,mysql,html,css,js,git,vscode,postman&theme=dark" />
-  </a>
-  
-  <!-- Tech Badges in Single Line -->
-  <p align="center">
+  <h2>
     <a href="https://github.com/ndrzy30">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/Web%20Dev-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=435&lines=About+Me+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Who+am+I+%3F" alt="About Me"/>
     </a>
-  </p>
+  </h2>
 </div>
+
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="150" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=20&duration=2000&pause=1000&color=6A9BF7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hi+%F0%9F%91%8B+I'm+Andre;Laravel+Developer+from+Medan" alt="Introduction"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=500&lines=Building+robust+applications+with+Laravel+%26+PHP;Crafting+efficient+database+solutions;Clean+code+advocate" alt="Tech Focus"/>
+  </a>
+</div>
+
 
 <!-- Combined Focus Areas & Connect Section -->
 <div align="center">
