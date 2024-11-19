@@ -5,16 +5,11 @@
   </a>
 
   <!-- About Me Section -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
-  <!-- Character 1: Developer with Coffee -->
-  <g transform="translate(250, 50)">
-    <circle cx="40" cy="40" r="35" fill="#FFD700"/>
-    <rect x="15" y="60" width="50" height="35" fill="#1E90FF" rx="5"/>
-    <circle cx="30" cy="35" r="5" fill="#000"/>
-    <circle cx="50" cy="35" r="5" fill="#000"/>
-    <path d="M 30 45 Q 40 55 50 45" fill="none" stroke="#000" stroke-width="2"/>
-    <circle cx="65" cy="30" r="10" fill="#FFD700" stroke="#000"/>
-  </g>
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="150" />
+  </a>
+</div>
 
 <!-- Profile Views & Location with Animated Icons -->
 <div align="center">
