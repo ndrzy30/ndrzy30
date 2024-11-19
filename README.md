@@ -22,37 +22,34 @@
 </div>
 
 <!-- Tech Stack Section -->
-<div align="center">
-  <h1>Tech Stack</h1>
-  
-  <!-- Tech Icons First Line -->
+<h2 align="center">
   <a href="https://github.com/ndrzy30">
-    <img src="python-icon.png" alt="Python" />
-    <img src="cpp-icon.png" alt="C++" />
-    <img src="laravel-icon.png" alt="Laravel" />
-    <img src="php-icon.png" alt="PHP" />
-    <img src="mysql-icon.png" alt="MySQL" />
-    <img src="html-icon.png" alt="HTML" />
-    <img src="css-icon.png" alt="CSS" />
-    <img src="js-icon.png" alt="JavaScript" />
-    <img src="git-icon.png" alt="Git" />
-    <img src="vscode-icon.png" alt="VSCode" />
-    <img src="postman-icon.png" alt="Postman" />
-    <img src="laragon-icon.png" alt="Laragon" />
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+    Tech Stack
+    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
   </a>
-
-  <!-- Tech Labels Second Line -->
-  <div>
-    <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/-LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/-WEB%20DEV-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/-MYSQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/-VSCODE-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/-LARAGON-0E83CD?style=for-the-badge&logo=laragon&logoColor=white">
-  </div>
+</h2>
+<div align="center">
+  
+  <!-- All Skills in Single Line -->
+  <a href="https://github.com/ndrzy30">
+    <img src="https://skillicons.dev/icons?i=python,cpp,laravel,php,mysql,html,css,js,git,vscode,postman&theme=dark" />
+  </a>
+  
+  <!-- Tech Badges in Single Line -->
+  <p align="center">
+    <a href="https://github.com/ndrzy30">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/Web%20Dev-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white">
+    </a>
+  </p>
 </div>
 
 <!-- Matrix Code Animation -->
