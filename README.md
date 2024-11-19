@@ -5,14 +5,7 @@
   </a>
 
   <!-- About Me Section -->
-<div align="center">
-  <h2>
-    <a href="https://github.com/ndrzy30">
-      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6A9BF7&center=true&vCenter=true&width=435&lines=About+Me+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Who+am+I+%3F" alt="About Me"/>
-    </a>
-  </h2>
-</div>
+
 
 <div align="center">
   <a href="https://github.com/ndrzy30">
