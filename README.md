@@ -41,7 +41,7 @@
 <!-- Matrix Code Animation -->
 <div align="center">
   <a href="https://github.com/ndrzy30">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndrzy30&theme=react-dark&hide_border=true&hide_title=false" width="100%">
   </a>
 </div>
 
