@@ -20,13 +20,7 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=20&duration=2000&pause=1000&color=6A9BF7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hi+%F0%9F%91%8B+I'm+Andre;Laravel+Developer+from+Medan" alt="Introduction"/>
-  </a>
-</div>
 
-<br>
 
 <div align="center">
   <a href="https://github.com/ndrzy30">
