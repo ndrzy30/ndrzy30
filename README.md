@@ -12,10 +12,6 @@
 </div>
 
 <!-- Profile Views & Location with Animated Icons -->
-<div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://komarev.com/ghpvc/?username=ndrzy30&label=Profile%20Visits&color=6A9BF7&style=for-the-badge" />
-  </a>
   <a href="https://github.com/ndrzy30">
     <img src="https://img.shields.io/badge/🌏_Medan,_Indonesia-Profile-6A9BF7?style=for-the-badge" />
   </a>
