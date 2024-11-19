@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=ndrzy30&label=Profile%20Visits&color=6A9BF7&style=for-the-badge" />
   </a>
   <a href="https://github.com/ndrzy30">
-    <img src="https://img.shields.io/badge/🌏_Medan_,Indonesia-Profile-6A9BF7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌏_Medan,_Indonesia-Profile-6A9BF7?style=for-the-badge" />
   </a>
 </div>
 
@@ -47,10 +47,10 @@
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white">
     </a>
   </p>
 </div>
-
 
 <!-- Matrix Code Animation -->
 <div align="center">
