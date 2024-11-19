@@ -40,8 +40,15 @@
 
 <!-- Matrix Code Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%">
+  <a href="https://github.com/ndrzy30">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </a>
 </div>
+
 
 <!-- footer -->
   <a href="https://www.instagram.com/_ndrzyy99" target="_blank">
