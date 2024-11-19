@@ -39,41 +39,11 @@
 
 
 <!-- Matrix Code Animation -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
-  <style>
-    @keyframes fall {
-      from { transform: translateY(-100%); }
-      to { transform: translateY(100%); }
-    }
-    @keyframes fade {
-      from { opacity: 1; }
-      to { opacity: 0; }
-    }
-    .symbol {
-      font-family: monospace;
-      fill: #00ff00;
-      font-size: 14px;
-    }
-    .trail {
-      animation: fall 8s linear infinite, fade 8s ease-out infinite;
-    }
-  </style>
-  
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#000"/>
-  
-  <!-- Matrix Symbols -->
-  <g>
-    <text class="symbol trail" x="50" y="0">1 0 1 0 1</text>
-    <text class="symbol trail" x="150" y="0" style="animation-delay: 1s">0 1 0 1 0</text>
-    <text class="symbol trail" x="250" y="0" style="animation-delay: 2s">ア イ ウ エ オ</text>
-    <text class="symbol trail" x="350" y="0" style="animation-delay: 0.5s">カ キ ク ケ コ</text>
-    <text class="symbol trail" x="450" y="0" style="animation-delay: 1.5s">1 0 1 0 1</text>
-    <text class="symbol trail" x="550" y="0" style="animation-delay: 2.5s">サ シ ス セ ソ</text>
-    <text class="symbol trail" x="650" y="0" style="animation-delay: 3s">0 1 0 1 0</text>
-    <text class="symbol trail" x="750" y="0" style="animation-delay: 3.5s">タ チ ツ テ ト</text>
-  </g>
-</svg>
+<div align="center">
+  <a href="https://github.com/ndrzy30">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+Developer;Backend+Developer;PHP+Developer" width="100%">
+  </a>
+</div>
 
 <!-- footer -->
   <a href="https://www.instagram.com/_ndrzyy99" target="_blank">
