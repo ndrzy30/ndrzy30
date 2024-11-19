@@ -41,7 +41,8 @@
 <!-- Matrix Code Animation -->
 <div align="center">
   <a href="https://github.com/ndrzy30">
-    <img src="https://komarev.com/ghpvc/?username=ndrzy30&label=Profile%20views&color=0e75b6&style=flat" width="150">
+    <img src="https://raw.githubusercontent.com/ndrzy30/ndrzy30/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <img src="https://github.com/ndrzy30/ndrzy30/blob/output/github-contribution-grid-snake-dark.gif" width="100%">
   </a>
 </div>
 
