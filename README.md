@@ -71,16 +71,17 @@
     <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
   </a>
 </h2>
-
 <div align="center">
   <!-- All Skills in Single Line -->
   <a href="https://github.com/ndrzy30">
-    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,js,git,vscode,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,laravel,php,mysql,html,css,js,git,vscode,postman&theme=dark" />
   </a>
   
   <!-- Tech Badges in Single Line -->
   <p align="center">
     <a href="https://github.com/ndrzy30">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
       <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/Web%20Dev-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
