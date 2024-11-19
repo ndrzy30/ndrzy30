@@ -40,9 +40,7 @@
 
 <!-- Matrix Code Animation -->
 <div align="center">
-  <a href="https://github.com/ndrzy30">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndrzy30&theme=react-dark&hide_border=true&area=true" width="100%">
-  </a>
+  <img src="https://media.giphy.com/media/kod1Id1oH1hkY/giphy.gif" width="100%" height="150">
 </div>
 
 
