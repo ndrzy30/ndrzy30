@@ -40,7 +40,6 @@
     </a>
   </p>
 </div>
-</h2>
 
 <!-- Profile Views & Location with Animated Icons -->
 <div align="center">
@@ -50,6 +49,7 @@
   <a href="https://github.com/ndrzy30">
     <img src="https://img.shields.io/badge/🌏_Medan,_ID-Profile-6A9BF7?style=for-the-badge" />
   </a>
+  </h2>
 </div>
 
 <!-- Matrix Code Animation -->
