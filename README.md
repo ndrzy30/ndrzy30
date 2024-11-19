@@ -20,6 +20,7 @@
   </a>
 </h2>
 <div align="center">
+  
   <!-- All Skills in Single Line -->
   <a href="https://github.com/ndrzy30">
     <img src="https://skillicons.dev/icons?i=python,cpp,laravel,php,mysql,html,css,js,git,vscode,postman&theme=dark" />
@@ -59,10 +60,7 @@
 
   <!-- Right Section - Connect -->
   <a href="https://github.com/ndrzy30" style="text-decoration: none;">
-    <h2 style="margin: 0;">
-      <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" style="vertical-align: middle;">
-      Let's Connect
-    </h2>
+
     <div style="display: inline-block; margin: 10px;">
   <a href="https://www.instagram.com/_ndrzyy99" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
