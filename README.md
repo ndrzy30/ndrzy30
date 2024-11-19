@@ -40,9 +40,8 @@
 
 <!-- Matrix Code Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohs4jonnOQl7bd3Q4/giphy.gif" width="100%" height="150">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100%">
 </div>
-
 
 <!-- footer -->
   <a href="https://www.instagram.com/_ndrzyy99" target="_blank">
