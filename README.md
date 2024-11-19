@@ -34,7 +34,8 @@
   <!-- All Skills in Single Line -->
 <a href="https://github.com/ndrzy30">
   <img src="https://skillicons.dev/icons?i=python,cpp,laravel,php,mysql,html,css,js,git,vscode,postman&theme=dark" />
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_laragon-64.png" width="48" />
+  <!-- Icon Laragon menggunakan base64 atau URL icon yang sesuai -->
+  <img src="path_to_laragon_icon.png" width="48" style="display: inline-block;" />
 </a>
   
   <!-- Tech Badges in Single Line -->
